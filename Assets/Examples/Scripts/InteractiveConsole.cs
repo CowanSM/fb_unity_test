@@ -41,6 +41,8 @@ public sealed class InteractiveConsole : MonoBehaviour
             lastResponse = "Error Response:\n" + result.Error;
         else if (!FB.IsLoggedIn) {
             lastResponse = "Login cancelled by Player";
+        } else {
+            Application.ExternalEval("alert('testing executing javascript after successfull login');");
         }
     }
 
