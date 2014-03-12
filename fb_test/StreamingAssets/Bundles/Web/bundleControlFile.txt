@@ -1,6 +1,6 @@
 BundleName:lgcoregui.unity3d
-VersionNumber:22
-Crc:2929304906
+VersionNumber:29
+Crc:3484357534
 
 BundleName:additivematerials.unity3d
 VersionNumber:2
@@ -15,6 +15,10 @@ VersionNumber:2
 Crc:2222821892
 
 BundleName:zrt_guiprefabs.unity3d
-VersionNumber:2
-Crc:2691253606
+VersionNumber:52
+Crc:580580397
+
+BundleName:zrt_characters.unity3d
+VersionNumber:5
+Crc:2271961971
 

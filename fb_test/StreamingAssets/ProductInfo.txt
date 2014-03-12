@@ -4,5 +4,7 @@
     "ParseApiKey": "UP1PGYct3VCU1bUdgIFWCHsLIG1wS9AUAzy4DQtN",
     "ParseRestKey": "cnrscFSYU1jkDiFQdvtV70f6kMHS6KJnw7lhdwQ2",
     "Version": "1.0.0",
-    "SnipsUrl": "http://snips.leviathangames.com"
+    "SnipsUrl": "http://snips.leviathangames.com",
+    "AdHocProfile": "LgEngine4",
+    "FbAppId": "216016135267272"
 }

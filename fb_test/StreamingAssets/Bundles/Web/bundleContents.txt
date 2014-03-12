@@ -16,6 +16,10 @@ BundleName:testanims.unity3d
 NumberOfAssets:1
 UnitTestAnimBank.prefab
 BundleName:zrt_guiprefabs.unity3d
-NumberOfAssets:2
+NumberOfAssets:3
+BackDrop.prefab
 CharacterCreator.prefab
 MainMenu.prefab
+BundleName:zrt_characters.unity3d
+NumberOfAssets:1
+CharacterAtlases.prefab
