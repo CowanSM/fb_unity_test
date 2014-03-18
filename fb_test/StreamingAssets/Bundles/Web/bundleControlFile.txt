@@ -1,24 +1,12 @@
-BundleName:lgcoregui.unity3d
-VersionNumber:29
-Crc:3484357534
-
 BundleName:additivematerials.unity3d
-VersionNumber:2
+VersionNumber:1
 Crc:1016237730
 
 BundleName:skeleton.unity3d
-VersionNumber:2
+VersionNumber:1
 Crc:550990982
 
 BundleName:testanims.unity3d
-VersionNumber:2
+VersionNumber:1
 Crc:2222821892
-
-BundleName:zrt_guiprefabs.unity3d
-VersionNumber:52
-Crc:580580397
-
-BundleName:zrt_characters.unity3d
-VersionNumber:5
-Crc:2271961971
 

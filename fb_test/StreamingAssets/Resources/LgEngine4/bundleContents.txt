@@ -1,0 +1,16 @@
+BundleName:lgcoregui.unity3d
+NumberOfAssets:6
+LgDebug.prefab
+LgDialog.prefab
+LgDialogLarge.prefab
+LgSpinner.prefab
+LgSplash.prefab
+LgUIRoot.prefab
+BundleName:lgcoregui.txt
+NumberOfAssets:6
+LgDebug.prefab
+LgDialog.prefab
+LgDialogLarge.prefab
+LgSpinner.prefab
+LgSplash.prefab
+LgUIRoot.prefab

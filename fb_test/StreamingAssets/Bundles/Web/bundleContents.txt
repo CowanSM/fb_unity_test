@@ -1,11 +1,3 @@
-BundleName:lgcoregui.unity3d
-NumberOfAssets:6
-LgDebug.prefab
-LgDialog.prefab
-LgDialogLarge.prefab
-LgSpinner.prefab
-LgSplash.prefab
-LgUIRoot.prefab
 BundleName:additivematerials.unity3d
 NumberOfAssets:1
 AdditiveMaterials.prefab
@@ -15,11 +7,3 @@ SkeletonLowRes.prefab
 BundleName:testanims.unity3d
 NumberOfAssets:1
 UnitTestAnimBank.prefab
-BundleName:zrt_guiprefabs.unity3d
-NumberOfAssets:3
-BackDrop.prefab
-CharacterCreator.prefab
-MainMenu.prefab
-BundleName:zrt_characters.unity3d
-NumberOfAssets:1
-CharacterAtlases.prefab
