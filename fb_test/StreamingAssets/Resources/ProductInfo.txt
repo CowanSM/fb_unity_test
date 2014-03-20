@@ -9,5 +9,6 @@
     "FbAppId": "216016135267272",
 	"EC2Url": "ec2-54-186-62-97.us-west-2.compute.amazonaws.com",
 	"EC2Handshake": "leviathan games authorizes the following connection.",
-	"EC2SecretKey": "levsecretkey"
+	"EC2SecretKey": "levsecretkey",
+	"FacebookProductUrl": "lgengine.parseapp.com/product/"
 }
