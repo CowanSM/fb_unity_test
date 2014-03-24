@@ -1,8 +1,4 @@
-BundleName:lgcoregui.unity3d
-VersionNumber:2
-Crc:3484357534
-
 BundleName:lgcoregui.txt
-VersionNumber:1
-Crc:3484357534
+VersionNumber:13
+Crc:3071968102
 
