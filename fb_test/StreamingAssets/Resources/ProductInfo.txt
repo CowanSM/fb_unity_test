@@ -3,12 +3,13 @@
     "Portal": "Facebook",
     "ParseApiKey": "UP1PGYct3VCU1bUdgIFWCHsLIG1wS9AUAzy4DQtN",
     "ParseRestKey": "cnrscFSYU1jkDiFQdvtV70f6kMHS6KJnw7lhdwQ2",
+    "ParseApiUrl": "lgengine.parseapp.com",
     "Version": "1.0.0",
     "SnipsUrl": "http://snips.leviathangames.com",
     "AdHocProfile": "LgEngine4",
     "FbAppId": "216016135267272",
-	"EC2Url": "ec2-54-186-62-97.us-west-2.compute.amazonaws.com",
-	"EC2Handshake": "leviathan games authorizes the following connection.",
-	"EC2SecretKey": "levsecretkey",
-	"FacebookProductUrl": "lgengine.parseapp.com/product/"
+    "EC2Url": "ec2-54-186-62-97.us-west-2.compute.amazonaws.com",
+    "EC2Handshake": "leviathan games authorizes the following connection.",
+    "EC2SecretKey": "levsecretkey",
+    "FacebookProductUrl": "lgengine.parseapp.com/product/"
 }

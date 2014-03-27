@@ -1,1 +1,1 @@
-[{"Name":"lgcoregui.txt","FileWithPath":"Resources/LgEngine4/lgcoregui.txt","Version":13,"Crc":3071968102,"Contents":["LgDebug.prefab","LgDevMenu.prefab","LgDialog.prefab","LgDialogLarge.prefab","LgSpinner.prefab","LgSplash.prefab","LgUIRoot.prefab"]}]
+[{"Name":"lgcoregui.txt","FileWithPath":"Resources/LgEngine4/lgcoregui.txt","Version":14,"Crc":423597551,"Contents":["LgDebug.prefab","LgDevMenu.prefab","LgDialog.prefab","LgDialogLarge.prefab","LgSpinner.prefab","LgSplash.prefab","LgUIRoot.prefab"]}]
