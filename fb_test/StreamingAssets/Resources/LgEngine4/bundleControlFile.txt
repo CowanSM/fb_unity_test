@@ -1,4 +1,4 @@
 BundleName:lgcoregui.txt
-VersionNumber:14
-Crc:423597551
+VersionNumber:15
+Crc:364796351
 
